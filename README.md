@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 A Glimpse Into My Tech World  
-- 💻 Currently working on: **[College Sports Management](https://github.com/karbhat74/College-Sports-Management)**
+- 💻 Currently working on: **[College Sports Management](https://github.com/karbhat74/jss-sports)**
 - 📖 Learning: **Backend, Coding, DSA**
 - ⚡ Fun Fact: **I enjoy building tech solutions for real-world problems!**
 
