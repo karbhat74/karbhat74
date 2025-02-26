@@ -13,12 +13,17 @@
 ---
 
 ### 🛠️ Tech Stack That Powers My Creations
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) 
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)  
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)  
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=flat&logo=mongodb)  
+![Web3](https://img.shields.io/badge/-Web3-darkblue?style=flat&logo=ethereum)  
+![Blockchain](https://img.shields.io/badge/-Blockchain-grey?style=flat&logo=bitcoin)  
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat&logo=solidity)  
+![Metamask](https://img.shields.io/badge/-Metamask-orange?style=flat&logo=metamask)  
 
 ---
 
