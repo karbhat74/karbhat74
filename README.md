@@ -38,7 +38,7 @@
 
 #### **Hackathons & Competitions**
 - [🐾 Web Designing Competition (@RVITM) - Animal Rescue](https://github.com/karbhat74/Animal-Rescue.git)
-- - [⚡ CodeFury National Level Hackathon (@IEEE UVCE) - Improving Disaster Preparedness & Response](https://github.com/karbhat74/CodeFury)
+- [⚡ CodeFury National Level Hackathon (@IEEE UVCE) - Improving Disaster Preparedness & Response](https://github.com/karbhat74/CodeFury)
 - [🏥 ABC Hackathon (@Hack2Skill) - Web3 in Health Tech](https://github.com/karbhat74/Web3-Health-Tech)
 - [♻️ Bit-n-Build Hackathon - Sustainable Personal Item Management](https://github.com/karbhat74/Bit-n-Build)
 
