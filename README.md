@@ -6,9 +6,9 @@
 ---
 
 ### 🌟 A Glimpse Into My Tech World
-💻 Currently working on: [Your Current Project Name]  
+💻 Currently working on: [College Sports Management]  
 📖 Learning: React.js, Node.js, MongoDB  
-⚡ Fun Fact: [Some fun fact about you]  
+⚡ Fun Fact: []  
 
 ---
 
