@@ -7,7 +7,7 @@
 
 ### 🌟 A Glimpse Into My Tech World
 💻 Currently working on: [College Sports Management]  
-📖 Learning: React.js, Node.js, MongoDB  
+📖 Learning: Backend, Coding, DSA  
 ⚡ Fun Fact: []  
 
 ---
