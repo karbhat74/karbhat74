@@ -3,15 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&width=600&lines=Hey+there!+I'm+Karthik+👋;Aspiring+Full-Stack+Developer;Passionate+about+Tech+%26+Innovation">
   </a>
 </h1>
-<style>
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-p {
-  font-size: 18px;
-}
-</style>
 
 <p align="center">💻 Aspiring Web Developer | Passionate about Full-Stack Development 🚀</p>
 
@@ -20,29 +11,37 @@ p {
 ## 🚀 **Tech Stack That Powers My Creations**
 
 ### 🎨 **Frontend**
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)  
-![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat&logo=jquery) 
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30">
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="30">
+</p>
 
 ### 🛠 **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)  
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat&logo=solidity)  
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" height="30">
+</p>
 
 ### 🗄 **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=flat&logo=mongodb)  
-![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase)  
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=sql)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkblue?style=flat&logo=postgresql)
+<p>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30">
+</p>
 
 ### ⚡ **Frameworks & Libraries**
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-teal?style=flat&logo=tailwind-css)  
-![Web3](https://img.shields.io/badge/-Web3-darkblue?style=flat&logo=ethereum)  
-![Blockchain](https://img.shields.io/badge/-Blockchain-grey?style=flat&logo=bitcoin)  
-![Metamask](https://img.shields.io/badge/-Metamask-orange?style=flat&logo=metamask)  
+<p>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Web3-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=black" height="30">
+</p>
 
 ---
 
@@ -70,9 +69,17 @@ p {
 ---
 
 ## 📢 **Let's Connect and Collaborate!**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karbhat74/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/karbhat74)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=website)](https://karbhat74.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/karbhat74/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30">
+  </a>
+  <a href="https://github.com/karbhat74">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" height="30">
+  </a>
+  <a href="https://karbhat74.com">
+    <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=website" height="30">
+  </a>
+</p>
 
 ---
 
