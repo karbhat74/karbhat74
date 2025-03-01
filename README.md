@@ -1,7 +1,8 @@
 <h1 align="center">
-  <span style="display: inline-block; animation: bounce 1.5s infinite;">👋 Hey there! I'm Karthik</span>
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B801&width=600&lines=Hey+there!+I'm+Karthik+👋;Aspiring+Full-Stack+Developer;Passionate+about+Tech+%26+Innovation">
+  </a>
 </h1>
-
 <style>
 @keyframes bounce {
   0%, 100% { transform: translateY(0); }
