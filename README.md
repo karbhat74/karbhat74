@@ -56,36 +56,36 @@
 ## 📌 **Internships & Projects**
 
 ### **Bharat Intern**
-- [📝 Registration Form](https://github.com/karbhat74/Registration-Form.git)
-- [💰 Money Tracker WebApp](https://github.com/karbhat74/Money-Tracker-WebApp.git)
+- [📝 Registration Form](https://github.com/karbhat74/Registration-Form)
+- [💰 Money Tracker WebApp](https://github.com/karbhat74/Money-Tracker-WebApp)
 
 ### **Oasis Infobyte**
-- [🌍 Landing Page](https://github.com/karbhat74/Landing-Page.git)
-- [👤 Portfolio](https://github.com/karbhat74/Portfolio.git)
-- [🌡️ Temperature Converter](https://github.com/karbhat74/Temperature-Converter.git)
+- [🌍 Landing Page](https://github.com/karbhat74/Landing-Page)
+- [👤 Portfolio](https://github.com/karbhat74/Portfolio)
+- [🌡️ Temperature Converter](https://github.com/karbhat74/Temperature-Converter)
 
 ### **CodSoft**
-- [🏛 Tribute Page](https://github.com/karbhat74/Tribute-Page.git)
-- [💼 Job Board](https://github.com/karbhat74/Job-Board.git)
+- [🏛 Tribute Page](https://github.com/karbhat74/Tribute-Page)
+- [💼 Job Board](https://github.com/karbhat74/Job-Board)
 
-### **Brainwave Matrix Solution (Internship)**
+### **Brainwave Matrix Solution**
 - [📷 Choma Photo Gallery](https://github.com/karbhat74/Choma)
 - [🚗 BhatsCar Showroom Website](https://github.com/karbhat74/BhatsCar)
 
-### **CollegeTips.in (Internship)**
+### **CollegeTips.in**
 - [💬 Chat App](https://github.com/karbhat74/Chat-App)
 - [💹 Crypto Tracker](https://github.com/karbhat74/Crypto-Tracker)
 - [🏫 CollegeTips Official Website](https://github.com/karbhat74/CollegeTips.in)
 - [🐶 Pet-Friendly City Campaign](https://github.com/karbhat74/Pet-Friendly)
 
 ### **Hackathons & Competitions**
-- [🐾 Animal Rescue – Web Designing Competition (RVITM)](https://github.com/karbhat74/Animal-Rescue.git)
+- [🐾 Animal Rescue – Web Designing Competition (RVITM)](https://github.com/karbhat74/Animal-Rescue)
 - [⚡ CodeFury – Disaster Preparedness (IEEE UVCE)](https://github.com/karbhat74/CodeFury)
 - [🏥 ABC Hackathon – Web3 in Health Tech (Hack2Skill)](https://github.com/karbhat74/Web3-Health-Tech)
 - [♻️ Bit-n-Build Hackathon – Sustainable Personal Item Management](https://github.com/karbhat74/Bit-n-Build)
-- [🤝 Aikyam Hackathon – Smart Social Tech](https://github.com/karbhat74/Aikyam)
+- [🤝 AIKYAM Hackathon – Smart Social Tech](https://github.com/karbhat74/Aikyam)
 
-### **Mini Projects**
+### **Mini Project**
 - [🏏 JSS Sports Management Portal](https://github.com/karbhat74/jss-sports)
 
 ---
@@ -98,7 +98,7 @@
   <a href="https://github.com/karbhat74">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" height="30">
   </a>
-  <a href="https://karbhat74.com">
+  <a href="https://my-portfolio5-8xrj.onrender.com/">
     <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=website" height="30">
   </a>
 </p>
