@@ -68,11 +68,25 @@
 - [🏛 Tribute Page](https://github.com/karbhat74/Tribute-Page.git)
 - [💼 Job Board](https://github.com/karbhat74/Job-Board.git)
 
+### **Brainwave Matrix Solution (Internship)**
+- [📷 Choma Photo Gallery](https://github.com/karbhat74/Choma)
+- [🚗 BhatsCar Showroom Website](https://github.com/karbhat74/BhatsCar)
+
+### **CollegeTips.in (Internship)**
+- [💬 Chat App](https://github.com/karbhat74/Chat-App)
+- [💹 Crypto Tracker](https://github.com/karbhat74/Crypto-Tracker)
+- [🏫 CollegeTips Official Website](https://github.com/karbhat74/CollegeTips.in)
+- [🐶 Pet-Friendly City Campaign](https://github.com/karbhat74/Pet-Friendly)
+
 ### **Hackathons & Competitions**
-- [🐾 Web Designing Competition (@RVITM) - Animal Rescue](https://github.com/karbhat74/Animal-Rescue.git)
-- [⚡ CodeFury National Level Hackathon (@IEEE UVCE) - Improving Disaster Preparedness & Response](https://github.com/karbhat74/CodeFury)
-- [🏥 ABC Hackathon (@Hack2Skill) - Web3 in Health Tech](https://github.com/karbhat74/Web3-Health-Tech)
-- [♻️ Bit-n-Build Hackathon - Sustainable Personal Item Management](https://github.com/karbhat74/Bit-n-Build)
+- [🐾 Animal Rescue – Web Designing Competition (RVITM)](https://github.com/karbhat74/Animal-Rescue.git)
+- [⚡ CodeFury – Disaster Preparedness (IEEE UVCE)](https://github.com/karbhat74/CodeFury)
+- [🏥 ABC Hackathon – Web3 in Health Tech (Hack2Skill)](https://github.com/karbhat74/Web3-Health-Tech)
+- [♻️ Bit-n-Build Hackathon – Sustainable Personal Item Management](https://github.com/karbhat74/Bit-n-Build)
+- [🤝 Aikyam Hackathon – Smart Social Tech](https://github.com/karbhat74/Aikyam)
+
+### **Mini Projects**
+- [🏏 JSS Sports Management Portal](https://github.com/karbhat74/jss-sports)
 
 ---
 
